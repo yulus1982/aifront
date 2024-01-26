@@ -37,7 +37,7 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://backendq-csuq.onrender.com:8080/",
+  "proxy": "https://backendq-csuq.onrender.com:10000/",
   "devDependencies": {
     "gh-pages": "^6.1.1"
   }
