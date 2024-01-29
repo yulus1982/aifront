@@ -11,10 +11,6 @@
     "react-icons": "^4.8.0",
     "react-router": "^6.10.0",
     "react-router-dom": "^6.10.0",
-    "cors": "^2.8.5",
-    "dotenv": "^16.0.3",
-    "express": "^4.18.2",
-    "node-fetch": "^3.3.1",
     "react-scripts": "^5.0.1"
   },
   "scripts": {
@@ -41,7 +37,7 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "35.160.120.126:8080/",
+  "proxy": "http://35.160.120.126:6001/",
   "devDependencies": {
     "gh-pages": "^6.1.1"
   }
