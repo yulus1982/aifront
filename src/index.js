@@ -1,14 +1,17 @@
 import '@fortawesome/fontawesome-free/css/all.css';
 import cors from "cors";
+import dotenv from "dotenv";
 import express from "express";
 import fetch from "node-fetch";
+
 import React from 'react';
 import { createRoot } from 'react-dom/client';
 import App from './App';
 import { ThemeProvider } from './components/common/ThemeContext';
 import './index.css';
 
-otenv.config();
+
+dotenv.config();
 
 const app = express();
 
