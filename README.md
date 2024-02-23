@@ -47,3 +47,4 @@ This repository is set up to run on a VPS with an express backend, to run it loc
 - SEO Blog Intro Paragraph Generator
 - LinkedIn Job Description Generator
 - TL;DR Text SummarizerGenerator
+# worksmarter
